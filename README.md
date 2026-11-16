@@ -22,6 +22,3 @@ This is a simple AI Chatbot developed using Java. It interacts with users and pr
 2. Open the terminal or command prompt.
 3. Compile using `javac ChatBot.java'
 4. Run using `java ChatBot'
-
-## Project Type
-CodeAlpha Internship – Java Programming
